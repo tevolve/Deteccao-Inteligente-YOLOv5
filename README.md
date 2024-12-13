@@ -25,7 +25,7 @@ Após instalar as dependências, basta executar o código para realizar a detec�
 - As caixas delimitadoras serão desenhadas ao redor de cada objeto detectado.
 - O modelo irá salvar a imagem com as detecções realizadas.
 
-- Contribuições
+## Contribuições
 Contribuições são bem-vindas. Para sugerir melhorias ou corrigir erros, envie um pull request.
 
 ## Licença
